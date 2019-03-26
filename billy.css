@@ -1,0 +1,96 @@
+body {
+    background-color: #5fc694;
+}
+
+.ball {
+    width: 50px;
+    height: 50px;
+    border-radius:
+        50%;
+    display: inline-block;
+}
+
+.ball--red{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,red 50%, #030 90%);
+}
+.ball--red-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,red 50%, #030 90%);
+}
+.ball--green{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,green 50%, #030 90%);
+}
+.ball--green-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,green 50%, #030 90%);
+}
+.ball--yellow{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,yellow 50%, #030 90%);
+}
+.ball--yellow-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,yellow 50%, #030 90%);
+
+}
+.ball--pink{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,pink 50%, #030 90%);
+
+}
+
+.ball--pink-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,pink 50%, #030 90%);
+
+}
+
+.ball--black{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,black 50%, #030 90%);
+
+}
+
+.ball--blue{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,blue 50%, #030 90%);
+
+}
+
+.ball--blue-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,blue 50%, #030 90%);
+
+}
+
+.ball--purple{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,purple 50%, #030 90%);
+
+}
+
+.ball--purple-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,purple 50%, #030 90%);
+
+}
+
+.ball--darkred{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,darkred 50%, #030 90%);
+
+}
+.ball--darkred-{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,darkred 50%, #030 90%);
+
+}
+.ball--white{
+  background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,white 50%, #030 90%);
+}
+
+
+
+
+.Ball {
+    position: relative;;
+    border-radius: 50%;
+    background-color: red;
+}
+
+#table {
+    width: 1000px;
+    height: 550px;
+    position: relative;;
+    background-color: green;
+    top: 100px;
+    left: 250px;
+    border: 10px solid black;
+}
