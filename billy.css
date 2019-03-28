@@ -3,11 +3,12 @@ body {
 }
 
 .ball {
-    width: 50px;
-    height: 50px;
-    border-radius:
-        50%;
+    width: 30px;
+    height: 30px;
+    border-radius:50%;
     display: inline-block;
+    line-height: 2;
+    text-align: center;
 }
 
 .ball--red{
@@ -75,10 +76,6 @@ body {
 .ball--white{
   background-image: radial-gradient(farthest-corner at 16px 16px,white 7%,white 50%, #030 90%);
 }
-
-
-
-
 .Ball {
     position: relative;;
     border-radius: 50%;
@@ -90,7 +87,7 @@ body {
     height: 550px;
     position: relative;;
     background-color: green;
-    top: 100px;
-    left: 250px;
+    left: 100px;
     border: 10px solid black;
+    border-radius: 20px;
 }

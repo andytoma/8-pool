@@ -9,7 +9,6 @@ class Basket {
   render(){
     var hole=`
       <div class="Ball Ball--${this.number}" style="position: absolute; left: ${this.x}px; top:${this.y}px; width:${this.s}px;height:${this.s}px;">
-
     </div>`;
     document.getElementById('table').innerHTML += hole
   }
