@@ -1,4 +1,4 @@
-var table = new Table(1100,550,20);
+var table = new Table(1100,550,50);
 
 // add balls
 
